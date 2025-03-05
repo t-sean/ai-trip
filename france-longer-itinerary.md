@@ -19,9 +19,9 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - [Alternative: Novotel Paris Centre Tour Eiffel](https://all.accor.com/hotel/3546/index.en.shtml) - Family rooms with Eiffel Tower views
 
 ### McDonald's Locations
-- [119 Champs-Élysées](https://goo.gl/maps/S6CTVJtXrvZCeDus9)
-- [140 Avenue des Champs-Élysées](https://goo.gl/maps/6DjyXLWoogwZ4WSDA)
-- [Forum des Halles Shopping Mall](https://goo.gl/maps/U6NVc7G25QQ8m1JQ7)
+- [McDonald's Champs-Élysées](https://www.google.com/maps/place/McDonald's/@48.8697128,2.3045718,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fc2a4f8f537:0x4c90595d4f6487e5!8m2!3d48.8697128!4d2.3067605)
+- [McDonald's Avenue des Champs-Élysées](https://www.google.com/maps/place/McDonald's/@48.87244,2.2990297,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fc90a16945d:0xd23d74223ea4f54a!8m2!3d48.87244!4d2.3012184)
+- [McDonald's Forum des Halles](https://www.google.com/maps/place/McDonald's/@48.8619677,2.3441752,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e18a5f84801:0x167c28e1f74c12c5!8m2!3d48.8619677!4d2.3463639)
 - [Find all Paris McDonald's](https://www.mcdonalds.fr/restaurants)
 
 ### Day 1: Arrival & Settling In
@@ -47,7 +47,7 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - **Afternoon:** Picnic lunch at Champ de Mars
   - [Nearby picnic supplies at Rue Cler market](https://goo.gl/maps/Ej7c2gCxG3XnzCi46)
 - **Evening:** Seine River Cruise at sunset [Bateaux Mouches](https://www.bateaux-mouches.fr/en)
-  - [Alternative: Bateaux Parisiens](https://www.bateauxparisiens.com/en.html)
+  - [Alternative: Bateaux Parisiens](https://www.bateauxparisiens.com/english.html)
 
 ### Day 4: Louvre & Tuileries
 - **Morning:** Visit the Louvre (focus on key highlights)
@@ -104,8 +104,8 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - [Alternative: Novotel Tours Centre](https://all.accor.com/hotel/0449/index.en.shtml) - Family rooms in city center
 
 ### McDonald's Locations
-- [Tours city center](https://goo.gl/maps/gEBEPbk2XV9sE7tB7)
-- [Amboise](https://goo.gl/maps/BREwZYpbWrmBZ5rs5) (near major castles)
+- [McDonald's Tours city center](https://www.google.com/maps/place/McDonald's/@47.3933847,0.6889546,17z/data=!3m1!4b1!4m5!3m4!1s0x47fcd5b94a239c49:0xa1035c1db0324030!8m2!3d47.3933847!4d0.6911433)
+- [McDonald's Amboise](https://www.google.com/maps/place/McDonald's/@47.4131725,0.9841929,17z/data=!3m1!4b1!4m5!3m4!1s0x47fcbdf60f33c59f:0x9baa9a1f676b25c3!8m2!3d47.4131725!4d0.9863816)
 
 ### Day 6: Travel to Loire & Château de Chenonceau
 - **Morning:** Train to Tours, pick up rental car
@@ -160,10 +160,10 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - [Alternative: Hyatt Regency Nice](https://www.hyatt.com/en-US/hotel/france/hyatt-regency-nice-palais-de-la-mediterranee/niced) - Family rooms with sea views
 
 ### McDonald's Locations
-- [Avignon](https://goo.gl/maps/qXjq1gvdJNbnMwaQ9)
-- [Arles](https://goo.gl/maps/Vd4NdS16VzeDhgSv5)
-- [St-Rémy-de-Provence](https://goo.gl/maps/h3q6G1oHVGwqYDjT7)
-- [Multiple locations along the Promenade des Anglais in Nice](https://goo.gl/maps/sVmGu9ZUXAkLy2aD7)
+- [McDonald's Avignon](https://www.google.com/maps/place/McDonald's/@43.9435204,4.8059097,17z/data=!3m1!4b1!4m5!3m4!1s0x12b5eb8707e7bc59:0xe9a3de7558d1d2d8!8m2!3d43.9435204!4d4.8080984)
+- [McDonald's Arles](https://www.google.com/maps/place/McDonald's/@43.6832538,4.6281096,17z/data=!3m1!4b1!4m5!3m4!1s0x12b672a5e5a9ba27:0x16d91fe4d70ef214!8m2!3d43.6832538!4d4.6302983)
+- [McDonald's St-Rémy-de-Provence](https://www.google.com/maps/place/McDonald's/@43.7889485,4.8392902,17z/data=!3m1!4b1!4m5!3m4!1s0x12b5e7ad7eb85fe3:0xc99624e831832e04!8m2!3d43.7889485!4d4.8414789)
+- [McDonald's Nice Promenade des Anglais](https://www.google.com/maps/place/McDonald's/@43.6946986,7.2556062,17z/data=!3m1!4b1!4m5!3m4!1s0x12cddaa7a1abe6ed:0x463a1db033fc38d!8m2!3d43.6947025!4d7.2577943)
 
 ### Day 9: Travel to Provence & Avignon
 - **Morning:** Train to Avignon
@@ -178,7 +178,7 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
   - [Official Tourism Website](https://www.beyond.fr)
   - Best time to visit: mid-June to mid-August when lavender is in full bloom
   - Panoramic Route D6 offers stunning views of endless lavender fields
-  - Photo stops at iconic spots: [Route D8 junction](https://goo.gl/maps/V9hRskrr4ZbN7rSY8) and [Lavandes Angelvin](https://goo.gl/maps/KtGMSd58WYZdcid96)
+  - Photo stops at iconic spots: [Route D8 junction](https://www.google.com/maps/place/43%C2%B050'22.7%22N+5%C2%B059'02.5%22E/@43.8396528,5.9829499,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d43.8396528!4d5.9840278) and [Lavandes Angelvin](https://www.google.com/maps/place/Lavandes+Angelvin/@43.8376692,5.9898651,17z/data=!3m1!4b1!4m5!3m4!1s0x12ca0d8953169eb5:0xb8193e9f4b462d49!8m2!3d43.8376692!4d5.9920538)
 - **Late Morning:** Visit Lavender Farm
   - [Lavandes Angelvin](http://www.lavandes-angelvin.com/) - Family-friendly farm with tours explaining lavender cultivation and distillation
   - [Le Château du Bois](https://www.lechateaudubois.fr/en/) - Another excellent option with museum and shop
