@@ -49,7 +49,6 @@ This 10-day itinerary is designed for a relaxed family vacation in France, with 
   - [Website](http://www.cite-sciences.fr/en/home/)
   - [Sensory-friendly visit info](http://www.cite-sciences.fr/en/practical-information/accessibility/)
 - **Evening:** Dinner and relaxation
-  - [Rainforest Cafe Paris](https://www.rainforestcafe.com/location/paris-france/) - Fun themed restaurant kids enjoy
 
 ### Day 4: Disneyland Paris Day Trip
 - **Full day:** Visit Disneyland Paris (30 minutes by RER train)

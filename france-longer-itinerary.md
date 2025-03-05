@@ -57,7 +57,6 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
   - [Tuileries Garden map and info](https://www.parisinfo.com/paris-museum-monument/71304/Jardin-des-Tuileries)
   - Trampoline garden and carousel for children
 - **Evening:** Dinner and relaxation
-  - [Rainforest Cafe Paris](https://www.rainforestcafe.com/location/paris-france/) - Fun themed restaurant kids enjoy
 
 ### Day 5: Disneyland Paris Day Trip
 - **Full day:** Visit Disneyland Paris (30 minutes by RER train)
