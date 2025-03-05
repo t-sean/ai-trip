@@ -79,6 +79,15 @@ This 10-day itinerary is designed for a relaxed family vacation in France, with 
 - [Seine River boat tour](https://www.vedettesdupontneuf.com/en/) (relaxing way to see the city)
 - [Centre Pompidou](https://www.centrepompidou.fr/en/) (modern art with great views from the top)
 - [Jardin d'Acclimatation](https://www.jardindacclimatation.fr/en) - Amusement park with sensory-friendly areas
+- [Musée Grévin](https://www.grevin-paris.com/en) - Paris wax museum with familiar celebrities
+- [Atelier des Lumières](https://www.atelier-lumieres.com/en) - Immersive digital art projections set to music
+- [Galeries Lafayette observation deck](https://haussmann.galerieslafayette.com/en/terrasse/) - Free rooftop views of Paris
+- [La Villette Submarine](https://www.cite-sciences.fr/en/explore/permanent/argonaute-submarine/) - Explore a real submarine
+- [Paris Sewer Museum](http://www.parismuseescollections.paris.fr/en/node/156) - Unique underground tour perfect for curious minds
+- [Parc des Buttes-Chaumont](https://en.parisinfo.com/paris-museum-monument/71468/Parc-des-Buttes-Chaumont) - Less crowded park with waterfalls and dramatic landscapes
+- [Le Grand Rex cinema](https://www.legrandrex.com/) - Europe's largest movie theater with art deco design
+- [Ballon de Paris](https://www.ballondeparis.com/en/) - Tethered hot air balloon with panoramic views
+- [Paris Plages](https://en.parisinfo.com/paris-show-exhibition/135161/paris-plage) - Summer beach setup along the Seine (July-August)
 
 ## Loire Valley (Days 5-6)
 
@@ -124,6 +133,16 @@ This 10-day itinerary is designed for a relaxed family vacation in France, with 
 - [Troglodyte caves near Amboise](https://www.valdeloire-france.com/tours/cave-des-roches-winery)
 - [Tours city exploration](https://www.tours-tourism.co.uk/)
 - [Mini-Châteaux Park](https://www.minichiateaux.com/) - Scale models of Loire castles
+- [Zoo de Beauval](https://www.zoobeauval.com/en) - One of the best zoos in France with pandas
+- [Hot air balloon ride over Loire castles](https://www.france-balloons.com/en/) - Peaceful morning flights available
+- [Mushroom Museum in Saumur caves](https://www.museelechampignon.com/en/) - Underground mushroom cultivation
+- [La Vallée Troglodytique des Goupillières](https://www.troglodytedesgoupillieres.fr/en/) - Experience medieval cave dwellings
+- [Château de Langeais](https://www.chateau-de-langeais.com/accueil/) - Less crowded fortress with medieval games
+- [Château d'Ussé](https://www.chateaudusse.fr/en/) - Known as "Sleeping Beauty Castle"
+- [Fontevraud Abbey](https://www.fontevraud.fr/en/) - Historic abbey with multimedia experiences
+- [Train ride on an old steam locomotive](https://www.trainduhautanjou.fr/) - Heritage railway experience (weekends only)
+- [Safari Train in Touraine](https://www.safaritrain.fr/) - Wildlife viewing from a train
+- [La Forêt des Singes](https://www.la-foret-des-singes.com/index-gb.php) - Monkey forest where primates roam freely
 
 ## Provence & French Riviera (Days 7-10)
 
@@ -203,6 +222,16 @@ This 10-day itinerary is designed for a relaxed family vacation in France, with 
 - [Antibes and Marineland aquatic park](https://www.marineland.fr/en/)
 - [Boat tour along the coast](https://www.niceboat.com/)
 - [Confiserie Florian](https://www.confiserieflorian.com/en/) - Candy factory tours in Nice
+- [Verdon Gorge](https://www.visitvar.fr/en/the-verdon/) - Europe's "Grand Canyon" with turquoise waters
+- [Villa Ephrussi de Rothschild](https://www.villa-ephrussi.com/en) - Pink palace with musical fountains and gardens
+- [Monaco Exotic Garden](https://jardin-exotique.gouv.mc/en) - Dramatic cliff-side succulent garden
+- [Porquerolles Island](https://www.hyeres-tourism.co.uk/porquerolles-island) - Car-free island with sandy beaches and clear water
+- [L'ile des Embiez](https://www.lesilespaulricard.com/ile-des-embiez/) - Small island perfect for a peaceful day trip
+- [Grasse perfume factory tours](https://www.parfumerie-fragonard.com/en/tours) - Create your own perfume
+- [Saint-Paul-de-Vence](https://www.saint-pauldevence.com/en/) - Beautiful medieval village with art galleries
+- [Aix-en-Provence markets](https://en.aixenprovencetourism.com/explore/markets/) - Colorful produce and craft markets
+- [Calanques National Park](https://www.calanques-parcnational.fr/en) - Mediterranean fjords with hiking and boat trips
+- [Roussillon and Ochre Trail](https://www.provenceguide.com/culture-patrimoine/ocres-du-luberon/roussillon/provence-PCULPT084CDT0000359-1.html) - Walk through colorful red rock formations
 
 ## Practical Travel Tips
 
