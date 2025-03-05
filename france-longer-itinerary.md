@@ -175,7 +175,7 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 
 ### Day 10: Lavender Fields of Provence
 - **Morning:** Drive to Valensole Plateau (1 hour from St-Rémy)
-  - [Official Tourism Website](https://www.beyond.fr/villages/valensole-provence-france.html)
+  - [Official Tourism Website](https://www.beyond.fr)
   - Best time to visit: mid-June to mid-August when lavender is in full bloom
   - Panoramic Route D6 offers stunning views of endless lavender fields
   - Photo stops at iconic spots: [Route D8 junction](https://goo.gl/maps/V9hRskrr4ZbN7rSY8) and [Lavandes Angelvin](https://goo.gl/maps/KtGMSd58WYZdcid96)
