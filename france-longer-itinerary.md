@@ -6,8 +6,8 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 
 ### Trip Duration: 12 days
 - Paris: 5 days
-- Loire Valley: 3 days
-- Provence & French Riviera: 4 days
+- Loire Valley: 2 days
+- Provence & French Riviera: 5 days
 
 ## Paris (Days 1-5)
 
@@ -101,7 +101,7 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - [Parc Floral de Paris](https://www.parcfloraldeparis.com/) - Botanical garden with playground and mini-golf
 - [Pâtisserie workshop for kids](https://www.cooknwithclass.com/paris/french-cooking-classes/kids-teen-cooking-classes-paris/) - Learn to make French pastries
 
-## Loire Valley (Days 6-8)
+## Loire Valley (Days 6-7)
 
 ### Transportation
 - Train from Paris to Tours (1 hour by TGV)
@@ -127,21 +127,14 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - **Evening:** Check into accommodation, relax
   - [La Dûchesse d'Ange](https://www.tripadvisor.com/Restaurant_Review-g187119-d11763216-Reviews-La_Duchesse_D_Ange-Amboise_Loire_Valley_Centre_Val_de_Loire.html) - Family-friendly restaurant in Amboise
 
-### Day 7: Château de Chambord & Clos Lucé
+### Day 7: Château de Chambord & Amboise
 - **Morning:** Visit Château de Chambord (largest château)
   - [Website](https://www.chambord.org/en/)
   - [HistoPad tablet tour](https://www.chambord.org/en/discover/the-visit/histopad/)
-- **Afternoon:** Visit Clos Lucé (Leonardo da Vinci's house)
-  - [Website](https://www.vinci-closluce.com/en)
+- **Afternoon:** Visit Château d'Amboise and/or Clos Lucé (Leonardo da Vinci's house)
+  - [Château d'Amboise](https://www.chateau-amboise.com/en/)
+  - [Clos Lucé](https://www.vinci-closluce.com/en)
   - [Leonardo's Garden interactive exhibits](https://www.vinci-closluce.com/en/explore/park)
-- **Evening:** Dinner in Tours or at accommodation
-
-### Day 8: Château d'Amboise & Relaxation
-- **Morning:** Visit Château d'Amboise
-  - [Website](https://www.chateau-amboise.com/en/)
-- **Afternoon:** Free time to explore Amboise town or relax
-  - [Amboise tourism](https://www.amboise-valdeloire.com/en/)
-  - Mini-Châteaux Park option for kids: [Website](https://www.minichiateaux.com/)
 - **Evening:** Relaxed dinner in Amboise
   - [Chez Bruno](https://www.tripadvisor.com/Restaurant_Review-g187116-d1065672-Reviews-Chez_Bruno-Amboise_Loire_Valley_Centre_Val_de_Loire.html) - Family-friendly pizzeria
 
@@ -168,7 +161,7 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - [La Réserve de Beaumarchais](https://www.reserve-de-beaumarchais.com/) - Wildlife park with bison and deer
 - [Château de Chinon](https://www.forteressechinon.fr/en) - Medieval fortress where Joan of Arc met King Charles VII
 
-## Provence & French Riviera (Days 9-12)
+## Provence & French Riviera (Days 8-12)
 
 ### Transportation
 - TGV train from Tours to Avignon (4.5 hours)
@@ -177,7 +170,7 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
   - [Hertz Avignon](https://www.hertz.com/rentacar/location/france/avignon/AVNT50)
 
 ### Accommodation
-**Days 9-10:** Family-friendly villa or apartment rental in St-Rémy-de-Provence
+**Days 8-10:** Family-friendly villa or apartment rental in St-Rémy-de-Provence
 - [Airbnb options](https://www.airbnb.com/s/Saint-Remy-de-Provence--France)
 - [Le Château des Alpilles](https://chateaudesalpilles.com/en/) - Luxury family option
 
@@ -191,7 +184,7 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - [McDonald's St-Rémy-de-Provence](https://www.google.com/maps/place/McDonald's/@43.7889485,4.8392902,17z/data=!3m1!4b1!4m5!3m4!1s0x12b5e7ad7eb85fe3:0xc99624e831832e04!8m2!3d43.7889485!4d4.8414789)
 - [McDonald's Nice Promenade des Anglais](https://www.google.com/maps/place/McDonald's/@43.6946986,7.2556062,17z/data=!3m1!4b1!4m5!3m4!1s0x12cddaa7a1abe6ed:0x463a1db033fc38d!8m2!3d43.6947025!4d7.2577943)
 
-### Day 9: Travel to Provence & Avignon
+### Day 8: Travel to Provence & Avignon
 - **Morning:** Train to Avignon
 - **Afternoon:** Brief visit to Palais des Papes
   - [Website](https://www.palais-des-papes.com/en)
@@ -199,7 +192,7 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - **Evening:** Check into accommodation, dinner
   - [La Fourchette](https://www.la-fourchette.com/) - Traditional Provençal restaurant
 
-### Day 10: Lavender Fields of Provence
+### Day 9: Lavender Fields of Provence
 - **Morning:** Drive to Valensole Plateau (1 hour from St-Rémy)
   - [Official Tourism Website](https://www.beyond.fr)
   - Best time to visit: mid-June to mid-August when lavender is in full bloom
@@ -219,6 +212,24 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
   - Sensory garden with lavender and other Provence plants
 - **Evening:** Return to accommodation, relaxed dinner
   - [La Cuisine des Anges](https://www.tripadvisor.com/Restaurant_Review-g187256-d1331265-Reviews-La_Cuisine_des_Anges-Saint_Remy_de_Provence_Bouches_du_Rhone_Provence_Alpes_Cote_d.html) - Family-friendly restaurant in St-Rémy
+
+### Day 10: Les Baux-de-Provence & Arles
+- **Morning:** Visit Les Baux-de-Provence medieval village
+  - [Official website](https://www.lesbauxdeprovence.com/en)
+  - Explore the striking hilltop fortress ruins with panoramic views
+  - Visit the Château des Baux with medieval siege weapons demonstrations
+- **Mid-day:** Experience Carrières de Lumières
+  - [Website](https://www.carrieres-lumieres.com/en)
+  - Immersive art projections inside a former quarry
+  - Cool environment perfect for hot summer days
+  - Sensory-friendly experience with music and visuals
+- **Afternoon:** Drive to Arles (30 minutes)
+  - [Arles Tourism](https://www.arlestourisme.com/en/)
+  - Visit the Roman Amphitheatre [Website](https://www.arles-agenda.fr/index.php?id=52)
+  - Follow the Van Gogh trail to see locations painted by the artist
+  - [Van Gogh walking tour map](https://www.arlestourisme.com/en/van-gogh-tour.html)
+- **Evening:** Return to St-Rémy, dinner at accommodation or local restaurant
+  - [L'Aile ou la Cuisse](https://www.tripadvisor.com/Restaurant_Review-g187256-d1493146-Reviews-L_Aile_ou_la_Cuisse-Saint_Remy_de_Provence_Bouches_du_Rhone_Provence_Alpes_Cote_d_A.html) - Family-friendly option
 
 ### Day 11: Travel to Nice & Beach Time
 - **Morning:** Drive to Nice (3 hours)
