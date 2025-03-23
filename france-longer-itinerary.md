@@ -1,15 +1,15 @@
-# 12-Day Family Trip to France
+# 13-Day Family Trip to France (June 4-16, 2024)
 
 ## Trip Overview
 
-This 12-day itinerary is designed for a relaxed family vacation in France, with special consideration for a 13-year-old with autism who has food preferences. The plan avoids rushed sightseeing and includes downtime between activities.
+This 13-day itinerary is designed for a relaxed family vacation in France, with special consideration for a 13-year-old with autism who has food preferences. The plan avoids rushed sightseeing and includes downtime between activities.
 
-### Trip Duration: 12 days
-- Paris: 5 days
-- Loire Valley: 2 days
-- Provence & French Riviera: 5 days
+### Trip Duration: 13 days (June 4-16, 2024)
+- Paris: 5 days (June 4-8)
+- Aix-en-Provence: 2 days (June 9-10)
+- French Riviera (Antibes): 6 days (June 11-16)
 
-## Paris (Days 1-5)
+## Paris (Days 1-5: June 4-8)
 
 ### Accommodation
 **Suggested:** Citadines Apart'hotel Saint-Germain-des-Prés Paris
@@ -101,182 +101,167 @@ This 12-day itinerary is designed for a relaxed family vacation in France, with 
 - [Parc Floral de Paris](https://www.parcfloraldeparis.com/) - Botanical garden with playground and mini-golf
 - [Pâtisserie workshop for kids](https://www.cooknwithclass.com/paris/french-cooking-classes/kids-teen-cooking-classes-paris/) - Learn to make French pastries
 
-## Loire Valley (Days 6-7)
+## Aix-en-Provence & Lavender Fields (Days 6-7: June 9-10)
 
 ### Transportation
-- Train from Paris to Tours (1 hour by TGV)
+- TGV train from Paris to Aix-en-Provence (3 hours)
   - [SNCF Train Tickets](https://en.oui.sncf/en/)
-- Rent a car in Tours for castle visits
-  - [Europcar Tours](https://www.europcar.com/location/france/tours)
-  - [Enterprise Rent-A-Car](https://www.enterprise.fr/en/car-hire/locations/france/tours.html)
+- Rent a car in Aix-en-Provence for exploring
+  - [Europcar Aix-en-Provence](https://www.europcar.com/location/france/aix-en-provence)
+  - [Sixt Aix-en-Provence](https://www.sixt.com/car-rental/france/aix-en-provence/)
 
 ### Accommodation
-**Suggested:** Château des Arpentis or similar family-friendly hotel
-- [Website](https://www.chateaudesarpentis.com/)
-- [Alternative: Novotel Tours Centre](https://all.accor.com/hotel/0449/index.en.shtml) - Family rooms in city center
+**Suggested:** Hôtel Le Pigonnet or similar garden hotel
+- [Website](https://www.hotelpigonnet.com/en/)
+- [Alternative: Adagio Aix-en-Provence Centre](https://www.adagio-city.com/gb/hotel-6905-aparthotel-adagio-aix-en-provence-centre/) - Family apartments with kitchen facilities
 
 ### McDonald's Locations
-- [McDonald's Tours city center](https://www.google.com/maps/place/McDonald's/@47.3933847,0.6889546,17z/data=!3m1!4b1!4m5!3m4!1s0x47fcd5b94a239c49:0xa1035c1db0324030!8m2!3d47.3933847!4d0.6911433)
-- [McDonald's Amboise](https://www.google.com/maps/place/McDonald's/@47.4131725,0.9841929,17z/data=!3m1!4b1!4m5!3m4!1s0x47fcbdf60f33c59f:0x9baa9a1f676b25c3!8m2!3d47.4131725!4d0.9863816)
+- [McDonald's Aix-en-Provence Rotonde](https://www.google.com/maps/place/McDonald's/@43.5234261,5.4472635,17z)
+- [McDonald's Aix-en-Provence Les Milles](https://www.google.com/maps/place/McDonald's/@43.4964507,5.3863325,17z)
+- [McDonald's Aix-en-Provence Route de Nice](https://www.google.com/maps/place/McDonald's/@43.5139055,5.4661745,17z)
 
-### Day 6: Travel to Loire & Château de Chenonceau
-- **Morning:** Train to Tours, pick up rental car
-- **Afternoon:** Visit Château de Chenonceau
-  - [Website](https://www.chenonceau.com/en/)
-  - [Audio guide app](https://www.chenonceau.com/en/prepare-your-visit/tours-and-activities/)
-- **Evening:** Check into accommodation, relax
-  - [La Dûchesse d'Ange](https://www.tripadvisor.com/Restaurant_Review-g187119-d11763216-Reviews-La_Duchesse_D_Ange-Amboise_Loire_Valley_Centre_Val_de_Loire.html) - Family-friendly restaurant in Amboise
+### Day 6 (June 9): Travel to Aix-en-Provence & City Exploration
+- **Morning:** TGV train from Paris to Aix-en-Provence
+- **Afternoon:** Check into hotel, pick up rental car, light exploration of Aix-en-Provence
+  - Cours Mirabeau stroll under the plane trees
+  - [Aix-en-Provence Tourist Office](https://www.aixenprovencetourism.com/en/)
+  - [Place de l'Hôtel de Ville](https://www.aixenprovencetourism.com/en/discover/heritage-history/places-and-squares/place-de-hotel-de-ville/)
+- **Evening:** Dinner in Aix
+  - [La Pizza](https://www.tripadvisor.com/Restaurant_Review-g187209-d1055183-Reviews-La_Pizza-Aix_en_Provence_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html) - Family-friendly option
+  - [Les Deux Garçons](https://www.les2garcons.fr/) - Historic brasserie on Cours Mirabeau
 
-### Day 7: Château de Chambord & Amboise
-- **Morning:** Visit Château de Chambord (largest château)
-  - [Website](https://www.chambord.org/en/)
-  - [HistoPad tablet tour](https://www.chambord.org/en/discover/the-visit/histopad/)
-- **Afternoon:** Visit Château d'Amboise and/or Clos Lucé (Leonardo da Vinci's house)
-  - [Château d'Amboise](https://www.chateau-amboise.com/en/)
-  - [Clos Lucé](https://www.vinci-closluce.com/en)
-  - [Leonardo's Garden interactive exhibits](https://www.vinci-closluce.com/en/explore/park)
-- **Evening:** Relaxed dinner in Amboise
-  - [Chez Bruno](https://www.tripadvisor.com/Restaurant_Review-g187116-d1065672-Reviews-Chez_Bruno-Amboise_Loire_Valley_Centre_Val_de_Loire.html) - Family-friendly pizzeria
-
-### Alternative Loire Activities
-- [Château de Villandry](https://www.chateauvillandry.fr/en/) (famous for gardens)
-- [Château de Cheverny](https://www.chateau-cheverny.fr/en/) (inspiration for Tintin)
-- [Boat ride on the Loire River](https://www.valdeloire-france.com/organise/activities/boat-trips)
-- [Troglodyte caves near Amboise](https://www.valdeloire-france.com/tours/cave-des-roches-winery)
-- [Tours city exploration](https://www.tours-tourism.co.uk/)
-- [Hot air balloon ride over Loire castles](https://www.france-balloons.com/en/)
-- [Zoo de Beauval](https://www.zoobeauval.com/en) - One of the best zoos in France
-- [Mushroom Museum in Saumur caves](https://www.museelechampignon.com/en/) - Underground mushroom cultivation in ancient quarries
-- [La Vallée Troglodytique des Goupillières](https://www.troglodytedesgoupillieres.fr/en/) - Explore medieval cave dwellings
-- [Château de Saumur](https://www.chateau-saumur.fr/) - Fairytale castle with horse museum
-- [Château d'Azay-le-Rideau](https://www.azay-le-rideau.fr/en) - Renaissance castle built on an island
-- [Château du Rivau](https://www.chateaudurivau.com/en/) - Castle with fairy tale gardens perfect for children
-- [Château d'Ussé](https://www.chateaudusse.fr/en/) - Known as "Sleeping Beauty Castle"
-- [Château de Brézé](https://www.chateaudebreze.com/) - Castle with the deepest dry moat in Europe
-- [Fontevraud Abbey](https://www.fontevraud.fr/en/) - Historic abbey with resting place of Richard the Lionheart
-- [Train ride on old steam locomotive](https://www.trainduhautanjou.fr/) - Heritage railway experience
-- [Safari Train in Touraine](https://www.safaritrain.fr/) - Wildlife viewing from a train
-- [La Forêt des Singes](https://www.la-foret-des-singes.com/index-gb.php) - Monkey forest where primates roam freely
-- [Maison de la Magie (House of Magic)](https://www.maisondelamagie.fr/en) - Magic museum across from Château de Blois
-- [La Réserve de Beaumarchais](https://www.reserve-de-beaumarchais.com/) - Wildlife park with bison and deer
-- [Château de Chinon](https://www.forteressechinon.fr/en) - Medieval fortress where Joan of Arc met King Charles VII
-
-## Provence & French Riviera (Days 8-12)
-
-### Transportation
-- TGV train from Tours to Avignon (4.5 hours)
-  - [SNCF Train Tickets](https://en.oui.sncf/en/)
-- Rent a car in Avignon
-  - [Hertz Avignon](https://www.hertz.com/rentacar/location/france/avignon/AVNT50)
-
-### Accommodation
-**Days 8-10:** Family-friendly villa or apartment rental in St-Rémy-de-Provence
-- [Airbnb options](https://www.airbnb.com/s/Saint-Remy-de-Provence--France)
-- [Le Château des Alpilles](https://chateaudesalpilles.com/en/) - Luxury family option
-
-**Days 11-12:** Aparthotel Adagio Nice Promenade des Anglais
-- [Website](https://www.adagio-city.com/gb/hotel-6148-aparthotel-adagio-nice-promenade-des-anglais/)
-- [Alternative: Hyatt Regency Nice](https://www.hyatt.com/en-US/hotel/france/hyatt-regency-nice-palais-de-la-mediterranee/niced) - Family rooms with sea views
-
-### McDonald's Locations
-- [McDonald's Avignon](https://www.google.com/maps/place/McDonald's/@43.9435204,4.8059097,17z/data=!3m1!4b1!4m5!3m4!1s0x12b5eb8707e7bc59:0xe9a3de7558d1d2d8!8m2!3d43.9435204!4d4.8080984)
-- [McDonald's Arles](https://www.google.com/maps/place/McDonald's/@43.6832538,4.6281096,17z/data=!3m1!4b1!4m5!3m4!1s0x12b672a5e5a9ba27:0x16d91fe4d70ef214!8m2!3d43.6832538!4d4.6302983)
-- [McDonald's St-Rémy-de-Provence](https://www.google.com/maps/place/McDonald's/@43.7889485,4.8392902,17z/data=!3m1!4b1!4m5!3m4!1s0x12b5e7ad7eb85fe3:0xc99624e831832e04!8m2!3d43.7889485!4d4.8414789)
-- [McDonald's Nice Promenade des Anglais](https://www.google.com/maps/place/McDonald's/@43.6946986,7.2556062,17z/data=!3m1!4b1!4m5!3m4!1s0x12cddaa7a1abe6ed:0x463a1db033fc38d!8m2!3d43.6947025!4d7.2577943)
-
-### Day 8: Travel to Provence & Avignon
-- **Morning:** Train to Avignon
-- **Afternoon:** Brief visit to Palais des Papes
-  - [Website](https://www.palais-des-papes.com/en)
-  - [Histopad interactive tour](https://www.palais-des-papes.com/en/content/histopad-0)
-- **Evening:** Check into accommodation, dinner
-  - [La Fourchette](https://www.la-fourchette.com/) - Traditional Provençal restaurant
-
-### Day 9: Lavender Fields of Provence
-- **Morning:** Drive to Valensole Plateau (1 hour from St-Rémy)
+### Day 7 (June 10): Lavender Fields Day Trip
+- **Morning:** Early start to Valensole Plateau (1 hour drive)
   - [Official Tourism Website](https://www.beyond.fr)
-  - Best time to visit: mid-June to mid-August when lavender is in full bloom
-  - Panoramic Route D6 offers stunning views of endless lavender fields
-  - Photo stops at iconic spots: [Route D8 junction](https://www.google.com/maps/place/43%C2%B050'22.7%22N+5%C2%B059'02.5%22E/@43.8396528,5.9829499,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d43.8396528!4d5.9840278) and [Lavandes Angelvin](https://www.google.com/maps/place/Lavandes+Angelvin/@43.8376692,5.9898651,17z/data=!3m1!4b1!4m5!3m4!1s0x12ca0d8953169eb5:0xb8193e9f4b462d49!8m2!3d43.8376692!4d5.9920538)
+  - Early June is early lavender season, but fields should be starting to bloom
+  - Panoramic Route D6 offers stunning views of lavender fields
+  - Photo stops at iconic spots: [Route D8 junction](https://www.google.com/maps/place/43%C2%B050'22.7%22N+5%C2%B059'02.5%22E/@43.8396528,5.9829499,17z) and [Lavandes Angelvin](https://www.google.com/maps/place/Lavandes+Angelvin/@43.8376692,5.9898651,17z)
 - **Late Morning:** Visit Lavender Farm
   - [Lavandes Angelvin](http://www.lavandes-angelvin.com/) - Family-friendly farm with tours explaining lavender cultivation and distillation
-  - [Le Château du Bois](https://www.lechateaudubois.fr/en/) - Another excellent option with museum and shop
+  - [Le Château du Bois](https://www.lechateaudubois.fr/en/) - Museum and shop with lavender products
 - **Lunch:** Picnic among the lavender fields or eat at [La Terrasse in Valensole](https://www.tripadvisor.com/Restaurant_Review-g2085185-d8614421-Reviews-La_Terrasse-Valensole_Alpes_de_Haute_Provence_Provence_Alpes_Cote_d_Azur.html)
-- **Afternoon:** Visit Sénanque Abbey
-  - [Website](https://senanque.fr/en/)
-  - Famous monastery with lavender fields cultivated by monks since the Middle Ages
-  - Peaceful setting perfect for gentle exploration
-- **Late Afternoon:** Visit L'Occitane Factory in Manosque
-  - [Factory tours](https://en.louverture.com/) - Discover how lavender is used in famous Provence products
-  - Interactive exhibits suitable for children
-  - Sensory garden with lavender and other Provence plants
-- **Evening:** Return to accommodation, relaxed dinner
-  - [La Cuisine des Anges](https://www.tripadvisor.com/Restaurant_Review-g187256-d1331265-Reviews-La_Cuisine_des_Anges-Saint_Remy_de_Provence_Bouches_du_Rhone_Provence_Alpes_Cote_d.html) - Family-friendly restaurant in St-Rémy
+- **Afternoon:** Optional side trip to Verdon Gorge (30 min from Valensole)
+  - [Verdon Natural Regional Park](https://www.parcduverdon.fr/en)
+  - Scenic viewpoints at Balcons de la Mescla
+  - Stop at Lake of Sainte-Croix for stunning turquoise waters
+- **Evening:** Return to Aix-en-Provence, dinner
+  - [Le Petit Verdot](https://www.tripadvisor.com/Restaurant_Review-g187209-d1818326-Reviews-Le_Petit_Verdot-Aix_en_Provence_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html) - Relaxed bistro with kids' options
 
-### Day 10: Les Baux-de-Provence & Arles
-- **Morning:** Visit Les Baux-de-Provence medieval village
-  - [Official website](https://www.lesbauxdeprovence.com/en)
-  - Explore the striking hilltop fortress ruins with panoramic views
-  - Visit the Château des Baux with medieval siege weapons demonstrations
-- **Mid-day:** Experience Carrières de Lumières
-  - [Website](https://www.carrieres-lumieres.com/en)
-  - Immersive art projections inside a former quarry
-  - Cool environment perfect for hot summer days
-  - Sensory-friendly experience with music and visuals
-- **Afternoon:** Drive to Arles (30 minutes)
-  - [Arles Tourism](https://www.arlestourisme.com/en/)
-  - Visit the Roman Amphitheatre [Website](https://www.arles-agenda.fr/index.php?id=52)
-  - Follow the Van Gogh trail to see locations painted by the artist
-  - [Van Gogh walking tour map](https://www.arlestourisme.com/en/van-gogh-tour.html)
-- **Evening:** Return to St-Rémy, dinner at accommodation or local restaurant
-  - [L'Aile ou la Cuisse](https://www.tripadvisor.com/Restaurant_Review-g187256-d1493146-Reviews-L_Aile_ou_la_Cuisse-Saint_Remy_de_Provence_Bouches_du_Rhone_Provence_Alpes_Cote_d_A.html) - Family-friendly option
+### Alternative Aix-en-Provence Activities
+- [Atelier de Cézanne](https://www.cezanne-en-provence.com/en/home-2/) - Studio where artist Paul Cézanne worked
+- [Calisson confectionery tour at Roy René](https://www.calisson.com/en/confectionery-visit/) - Local candy factory tour
+- [Aix Cathedral](https://www.aixenprovencetourism.com/en/discover/heritage-history/monuments-and-heritage-sites/cathedrale-saint-sauveur/) - Beautiful 12th-century cathedral
+- [Aix Markets](https://www.aixenprovencetourism.com/en/discover/markets-and-shopping/markets/) - Local markets every morning
+- [Fondation Vasarely](https://www.fondationvasarely.org/) - Op-art museum in striking modern building
+- [Terrain des Peintres](https://www.cezanne-en-provence.com/decouvrir-cezanne/les-lieux/le-terrain-des-peintres/?lang=en) - Spot where Cézanne painted Mont Sainte-Victoire
+- [Musée Granet](https://www.museegranet-aixenprovence.fr/en/) - Excellent fine arts museum with works by Cézanne
+- [Pavillon Vendôme](https://www.aixenprovencetourism.com/en/discover/heritage-history/monuments-and-heritage-sites/pavillon-de-vendome/) - 17th-century mansion with gardens
+- [Set Bowling](https://www.setbowling.com/) - Family-friendly bowling alley
+- [Parc Jourdan](https://www.aixenprovencetourism.com/en/discover/parks-and-gardens/parc-jourdan/) - Relaxing park perfect for kids to run around
 
-### Day 11: Travel to Nice & Beach Time
-- **Morning:** Drive to Nice (3 hours)
-- **Afternoon:** Check in to accommodation, beach time on Promenade des Anglais
-  - [Blue Beach](https://www.bluebeach.fr/en/) - Private beach with amenities
-  - [Castel Plage](https://www.castelplage.com/) - Family-friendly beach restaurant
-- **Evening:** Dinner in Old Town Nice
-  - [La Pizza Cresci](https://www.facebook.com/pizzacrenci) - Popular with families
+## French Riviera - Antibes (Days 8-13: June 11-16)
 
-### Day 12: Nice Exploration & Departure Prep
-- **Morning:** Relaxed exploration of Nice or optional short trip to Monaco
-  - [Monaco Oceanographic Museum](https://www.oceano.mc/en)
-  - [Monaco official tourism site](https://www.visitmonaco.com/en)
-- **Afternoon:** Last-minute shopping, packing
-  - [Nice Etoile Shopping Center](https://www.nicetoile.com/)
-- **Evening:** Farewell dinner, prepare for departure next day
-  - [Le Petit Café](https://www.tripadvisor.com/Restaurant_Review-g187234-d1055500-Reviews-Le_Petit_Cafe-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html) - Relaxed family dining
+### Transportation
+- Drive from Aix-en-Provence to Antibes (2 hours)
+  - [Via A8 motorway](https://www.google.com/maps/dir/Aix-en-Provence/Antibes/)
+- Return rental car at end of stay at Nice Airport
 
-### Alternative Provence/Riviera Activities
-- [Sault Lavender Region](https://www.provenceguide.co.uk/explore/lavender/sault-plateau/) - Alternative lavender area with family-friendly fields
-- [Apt Lavender Festival](https://www.luberon-apt.fr) - If visiting in August
-- [Pont du Gard](https://www.pontdugard.fr/en) - Ancient Roman aqueduct
-- [Arles](https://www.arlestourisme.com/en/) (Roman amphitheater, Van Gogh sites)
-- [Les Baux-de-Provence](https://www.lesbauxdeprovence.com/en) - Medieval hilltop village
-- [Carrières de Lumières](https://www.carrieres-lumieres.com/en) - Immersive art projections in a cave
-- [Èze village](https://eze-tourisme.com/en/) (medieval village with spectacular views)
-- [Antibes and Marineland aquatic park](https://www.marineland.fr/en/)
-- [Boat tour along the coast](https://www.niceboat.com/)
-- [Confiserie Florian](https://www.confiserieflorian.com/en/) - Candy factory tours in Nice
-- [Nice tour on the Petit Train](https://www.petittrain-nice.com/en)
-- [Verdon Gorge](https://www.visitvar.fr/en/the-verdon/) - Europe's "Grand Canyon" with electric boat rentals
-- [Villa Ephrussi de Rothschild](https://www.villa-ephrussi.com/en) - Pink palace with musical fountains and nine themed gardens
-- [Monaco Exotic Garden](https://jardin-exotique.gouv.mc/en) - Succulents and prehistoric cave tour
-- [Monaco Oceanographic Museum](https://www.oceano.mc/en) - Founded by Jacques Cousteau with touch pools
-- [Porquerolles Island](https://www.hyeres-tourism.co.uk/porquerolles-island) - Car-free island with sandy beaches
-- [L'ile des Embiez](https://www.lesilespaulricard.com/ile-des-embiez/) - Small island with relaxed atmosphere
-- [Grasse perfume factory tours](https://www.parfumerie-fragonard.com/en/tours) - Create your own perfume
-- [Saint-Paul-de-Vence](https://www.saint-pauldevence.com/en/) - Beautiful medieval village with art galleries
-- [Aix-en-Provence markets](https://en.aixenprovencetourism.com/explore/markets/) - Colorful produce and crafts
-- [Calanques National Park](https://www.calanques-parcnational.fr/en) - Mediterranean fjords for hiking or boat tours
-- [Roussillon and Ochre Trail](https://www.provenceguide.com/culture-patrimoine/ocres-du-luberon/roussillon/provence-PCULPT084CDT0000359-1.html) - Walk through colorful red cliffs
-- [Abbaye de Sénanque lavender fields](https://senanque.fr/en/) - 12th century abbey surrounded by lavender
-- [Gordes village](https://www.provenceguide.com/villages-et-cites-de-caractere/gordes/provence-PCUPAC084V50005W-1.html) - One of France's most beautiful stone villages
-- [Nîmes Roman monuments](https://www.arenes-nimes.com/en) - Amphitheater and temples
-- [Aigues-Mortes medieval walled city](https://www.aigues-mortes-monument.fr/en/) - Perfectly preserved fortified town
-- [Camargue Regional Nature Park](https://www.camargue.fr/) - Wild horses, flamingos, and salt flats
-- [Thoronet Abbey](http://www.le-thoronet.fr/en/) - Acoustically perfect medieval abbey
+### Accommodation
+**Suggested:** Apartment or villa rental in Antibes/Juan-les-Pins
+- [Airbnb options in Antibes](https://www.airbnb.com/s/Antibes--France/homes)
+- [VRBO options in Antibes](https://www.vrbo.com/search?destination=Antibes,%20France)
+- [Alternative: Cap d'Antibes Beach Hotel](https://www.ca-beachhotel.com/) - Luxury beachfront hotel with family suites
+
+### McDonald's Locations
+- [McDonald's Antibes Place Général de Gaulle](https://www.google.com/maps/place/McDonald's/@43.5807167,7.1246949,17z)
+- [McDonald's Antibes Les Semboules](https://www.google.com/maps/place/McDonald's/@43.5992037,7.0994327,17z)
+- [McDonald's Juan-les-Pins](https://www.google.com/maps/place/McDonald's/@43.5691477,7.1154101,17z)
+
+### Day 8 (June 11): Travel to Antibes & Settling In
+- **Morning:** Drive from Aix-en-Provence to Antibes
+- **Afternoon:** Check into accommodation, explore neighborhood
+  - Walk along the Antibes ramparts
+  - [Antibes Tourism Office](https://www.antibesjuanlespins.com/en)
+  - Discover Plage de la Gravette (sheltered beach in town)
+- **Evening:** Dinner at Port Vauban
+  - [Le Brûlot](https://www.tripadvisor.com/Restaurant_Review-g187217-d812234-Reviews-Le_Brulot-Antibes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html) - Family-friendly with sea views
+
+### Day 9 (June 12): Antibes Beaches & Old Town
+- **Morning:** Beach time at Plage de la Salis
+  - [Plage de la Salis](https://www.antibesjuanlespins.com/en/beaches/salis-beach) - Sandy beach with shallow water
+  - Beach amenities include chairs, umbrellas, and snack bars
+- **Afternoon:** Explore Antibes Old Town
+  - Marché Provençal (morning covered market)
+  - [Picasso Museum](https://www.antibes-juanlespins.com/culture/musee-picasso) - Located in Grimaldi Castle
+  - Ice cream at [Gelateria del Porto](https://www.tripadvisor.com/Restaurant_Review-g187217-d4308374-Reviews-Gelateria_Del_Porto-Antibes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html)
+- **Evening:** Relaxed dinner at accommodation or local restaurant
+  - [Le Vauban](https://www.tripadvisor.com/Restaurant_Review-g187217-d1103760-Reviews-Le_Vauban-Antibes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html) - Pizza and pasta options
+
+### Day 10 (June 13): Marineland & Aquasplash
+- **Morning/Afternoon:** Visit Marineland park
+  - [Marineland official website](https://www.marineland.fr/en/) - Marine life park with dolphin and orca shows
+  - [Accessibility information](https://www.marineland.fr/en/practical-info/accessibility/)
+  - Several restaurants and snack options inside
+- **Afternoon:** Optional visit to adjacent Aquasplash water park
+  - [Aquasplash official website](https://www.marineland.fr/en/parks/aquasplash/) - Water slides and pools
+  - Combined tickets available with Marineland
+- **Evening:** Casual dinner
+  - [Buffalo Grill](https://www.tripadvisor.com/Restaurant_Review-g187217-d3137026-Reviews-Buffalo_Grill-Antibes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html) - American-style food familiar to children
+
+### Day 11 (June 14): Day Trip to Monaco
+- **Morning:** Drive or take train to Monaco (45 min)
+  - [SNCF train schedule](https://en.oui.sncf/en/) - Trains run regularly along the coast
+  - [Monaco tourism information](https://www.visitmonaco.com/en)
+- **Late Morning:** Visit Oceanographic Museum
+  - [Official website](https://www.oceano.mc/en) - Founded by Jacques Cousteau
+  - Interactive touch pools and shark lagoon
+  - Stunning building perched on the cliff
+- **Afternoon:** Explore Monaco highlights
+  - Watch the Changing of the Guard at Prince's Palace (11:55 am)
+  - [Monaco Gardens](https://www.visitmonaco.com/en/7-gardens-to-discover-in-monaco) - Beautiful gardens throughout the principality
+  - Optional: [Monte Carlo Casino Square](https://www.casinomontecarlo.com/en/) (exterior viewing)
+- **Evening:** Return to Antibes for dinner
+  - [La Taille de Guêpe](https://www.tripadvisor.com/Restaurant_Review-g187217-d1748962-Reviews-La_Taille_de_Guepe-Antibes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html) - Child-friendly with varied menu
+
+### Day 12 (June 15): Relaxation Day in Juan-les-Pins
+- **Morning/Afternoon:** Beach day at Juan-les-Pins
+  - [Juan-les-Pins beaches](https://www.antibesjuanlespins.com/en/beaches/juan-les-pins-beaches) - Shallow, sandy beaches
+  - Beach clubs with amenities or public beaches available
+  - Water sports options: pedal boats, paddleboarding
+- **Late Afternoon:** Stroll through Juan-les-Pins town
+  - Shopping on Boulevard Edouard Baudoin
+  - [Pinède Gould](https://www.antibesjuanlespins.com/en/discover/pined-e-gould) - Lovely pine grove park
+- **Evening:** Farewell dinner
+  - [Le César](https://www.tripadvisor.com/Restaurant_Review-g187218-d1508234-Reviews-Le_Cesar-Juan_les_Pins_Antibes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azu.html) - Beachfront restaurant
+
+### Day 13 (June 16): Departure
+- **Morning:** Packing, last-minute shopping
+- **Afternoon:** Drive to Nice Airport (30 minutes) for departure flight
+  - [Nice Airport information](https://en.nice.aeroport.fr/)
+  - Return rental car
+- **Alternative:** If flight is in the evening, enjoy a last beach visit or lunch in Antibes
+  - [Le Café des Chineurs](https://www.tripadvisor.com/Restaurant_Review-g187217-d1009767-Reviews-Le_Cafe_des_Chineurs-Antibes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html) - Relaxed lunch spot
+
+### Alternative French Riviera Activities
+- [Cap d'Antibes coastal walk](https://www.antibesjuanlespins.com/en/discover/cap-d-antibes) - Easy scenic trail with sea views
+- [Cannes day trip](https://www.cannes-destination.com/) - Film festival city with La Croisette promenade
+- [Nice Old Town (Vieux Nice)](https://en.nicetourisme.com/nice/48-the-old-town-vieux-nice) - Colorful Italian-style old town
+- [Nice Promenade des Anglais](https://en.nicetourisme.com/nice/65-nice-promenade-des-anglais) - Famous seaside walkway
+- [Confiserie Florian candy factory](https://www.confiserieflorian.com/en/visit/) - Tours of traditional candy making
+- [Île Sainte-Marguerite](https://www.cannes-destination.com/cannes-destination/discover/lerins-islands) - Car-free island with beaches and pine forests
+- [Saint-Paul-de-Vence](https://www.saint-pauldevence.com/en/) - Beautiful hilltop village with art galleries
+- [Villa Ephrussi de Rothschild](https://www.villa-ephrussi.com/en) - Pink palace with musical fountains and gardens
+- [Grasse perfume factory tours](https://www.parfumerie-fragonard.com/en/tours) - Create your own perfume (45 min drive)
+- [Antibes Aquarium](https://www.marineland.fr/en/parks/marine-park/) - Part of Marineland, sea life exhibits
+- [Fort Carré](https://www.antibesjuanlespins.com/en/discover/fort-carr-e) - Historic star-shaped fort with views
+- [Parc Phoenix](https://en.nicetourisme.com/nice/95-phoenix-park) - Botanical garden and small zoo in Nice
+- [La Petite Ferme](https://www.petite-ferme.fr/) - Small animal farm near Antibes
+- [Biot Glass Factory](https://www.biot-tourisme.com/en/the-glass-art-savoir-faire-in-biot/) - Watch glass-blowing demonstrations
+- [Vallauris Pottery Village](https://www.vallauris-golfe-juan.fr/en/) - Ceramic arts with Picasso connections
+- [Théoule-sur-Mer beaches](https://www.theoule-sur-mer.fr/en/) - Red rock coastline with pristine beaches
+- [Nice's Promenade du Paillon](https://en.nicetourisme.com/nice/96-the-promenade-du-paillon) - Modern urban park with water features
+- [Èze village](https://eze-tourisme.com/en/) - Medieval village with exotic garden and views
+- [Antibes Land](https://www.antibesland.com/) - Small amusement park with rides
 
 ## Practical Travel Tips
 
